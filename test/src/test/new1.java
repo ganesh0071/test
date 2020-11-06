@@ -6,8 +6,6 @@ public class new1 {
 	
 	// second commit
 
-	public int new2() {
-		return 0;
-	}
+	
 }
 
