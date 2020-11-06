@@ -6,6 +6,10 @@ public class new1 {
 	
 	// second commit
 
+	public int add(int a) {
+		return a;
+	}
+	
 	
 }
 
