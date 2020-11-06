@@ -10,6 +10,8 @@ public class new1 {
 		return a;
 	}
 	
-	
+	public int add(int a,int b) {
+		return a+b;
+	}
 }
 
